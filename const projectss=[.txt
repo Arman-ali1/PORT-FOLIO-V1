@@ -1,0 +1,60 @@
+const projectss=[
+    {
+      category: "fullstack",
+      id:17,
+      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      liveUrl:"https://buyit-shoes.netlify.app/",
+      repositoryUrl:"https://github.com/developer-junaid/Buy-It",
+      tagline:"Ecommerce / Stripe Payments",
+      title:"Buy It Ecommerce Store"
+    },
+    {
+      category: "fullstack",
+      id:18,
+      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      liveUrl:"https://buyit-shoes.netlify.app/",
+      repositoryUrl:"https://github.com/developer-junaid/Buy-It",
+      tagline:"Ecommerce / Stripe Payments",
+      title:"Buy It Ecommerce Store"
+    },
+    {
+      category: "fullstack",
+      id:19,
+      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      liveUrl:"https://buyit-shoes.netlify.app/",
+      repositoryUrl:"https://codesandbox.io/s/recursing-night-vwz2",
+      tagline:"Ecommerce / Stripe Payments",
+      title:"Buy It Ecommerce Store"
+    },
+  ]
+  const servicess=[
+
+    {
+      category: "fullstack",
+      id:19,
+      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      liveUrl:"https://buyit-shoes.netlify.app/",
+      repositoryUrl:"https://codesandbox.io/s/recursing-night-vwz2",
+      tagline:"Ecommerce / Stripe Payments",
+      title:"Buy It Ecommerce Store"
+    },
+
+  ]
+/////////////////////////
+const servicess=[
+      {
+      icon: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      tags: ["React", "Node", "Express", "MongoDB"],
+      title: "Fullstack Development"
+      },
+      {
+      icon: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      tags: ["React", "Node", "Express", "MongoDB"],
+      title: "Fullstack Development"
+      },
+      {
+      icon: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
+      tags: ["React", "Node", "Express", "MongoDB"],
+      title: "Fullstack Development"
+      }, 
+  ]
