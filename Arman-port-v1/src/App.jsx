@@ -11,7 +11,7 @@ import Footer from "components/Footer/Footer"
 // Sanity
 // import sanityClient from "client"
 
-// Animation
+//   https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png
 import Aos from "aos"
 import "aos/dist/aos.css"
 
@@ -20,29 +20,29 @@ function App() {
     {
       category: "fullstack",
       id:17,
-      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
-      liveUrl:"https://buyit-shoes.netlify.app/",
-      repositoryUrl:"https://github.com/developer-junaid/Buy-It",
-      tagline:"Ecommerce / Stripe Payments",
-      title:"Buy It Ecommerce Store"
+      img: {asset: {url:"https://edumanias.com/wp-content/uploads/2022/05/0_obdOeSyZZZ2nT55E.jpg"}},
+      liveUrl:"https://note-taking-app-navy.vercel.app/",
+      repositoryUrl:"https://github.com/Arman-ali1/NoteTakingApp",
+      tagline:"NoteTacking / Socket.io",
+      title:"Make Dynamic Notes"
     },
     {
       category: "fullstack",
       id:18,
-      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
-      liveUrl:"https://buyit-shoes.netlify.app/",
-      repositoryUrl:"https://github.com/developer-junaid/Buy-It",
-      tagline:"Ecommerce / Stripe Payments",
-      title:"Buy It Ecommerce Store"
+      img: {asset: {url:"https://edumanias.com/wp-content/uploads/2022/05/0_obdOeSyZZZ2nT55E.jpg"}},
+      liveUrl:"https://infinity-blog-arman-alis-projects-c9ae4c0e.vercel.app/",
+      repositoryUrl:"https://github.com/Arman-ali1/Infinity-blog",
+      tagline:"BlogingApp / Appwrite",
+      title:"Real Time bloging webApp"
     },
     {
       category: "fullstack",
       id:19,
       img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
-      liveUrl:"https://buyit-shoes.netlify.app/",
-      repositoryUrl:"https://codesandbox.io/s/recursing-night-vwz2",
-      tagline:"Ecommerce / Stripe Payments",
-      title:"Buy It Ecommerce Store"
+      liveUrl:"https://arman-ali1.github.io/currencyConvertor/",
+      repositoryUrl:"https://github.com/Arman-ali1/currencyConvertor",
+      tagline:"Currency-Convertor / Real-time-api",
+      title:"Convert Currency from one to another"
     },
   ]
   const servicess=[
