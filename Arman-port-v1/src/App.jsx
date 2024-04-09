@@ -21,7 +21,7 @@ function App() {
       category: "fullstack",
       id:17,
       img: {asset: {url:"https://edumanias.com/wp-content/uploads/2022/05/0_obdOeSyZZZ2nT55E.jpg"}},
-      liveUrl:"https://note-taking-app-navy.vercel.app/",
+      liveUrl:"https://note-taking-app-iwg3.vercel.app/",
       repositoryUrl:"https://github.com/Arman-ali1/NoteTakingApp",
       tagline:"NoteTacking / Socket.io",
       title:"Make Dynamic Notes"
@@ -38,8 +38,8 @@ function App() {
     {
       category: "fullstack",
       id:19,
-      img: {asset: {url:"https://cdn.sanity.io/images/fxul9ln3/production/4443646bac70015c710729ae2d8b945c11f7bdd1-1920x1080.png"}},
-      liveUrl:"https://arman-ali1.github.io/currencyConvertor/",
+      img: {asset: {url:"https://edumanias.com/wp-content/uploads/2022/05/0_obdOeSyZZZ2nT55E.jpg"}},
+      liveUrl:"https://weather-app-peach-psi.vercel.app/",
       repositoryUrl:"https://github.com/Arman-ali1/currencyConvertor",
       tagline:"Currency-Convertor / Real-time-api",
       title:"Convert Currency from one to another"
